@@ -107,4 +107,4 @@ To further enhance the utility and depth of this Bank Loan Analytics Dashboard, 
 *   **Integration with External Data Sources:** Connect the dashboard with external economic data (e.g., unemployment rates, federal interest rates) to provide a broader context for loan analysis.
 *   **Customizable Dashboard Views:** Allow users to customize dashboard views and metrics to suit their specific analytical needs.
 
-## Repository Structure (Suggested)
+
